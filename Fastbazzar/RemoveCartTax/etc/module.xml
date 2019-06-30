@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+
+<!--
+/**
+ * @category     FastBazzar
+ * @package      Fastbazzar_RemoveCartTax
+ * @author       Leton Miah (letoncse7@gmail.com)
+ * @copyright    Copyright (c) 2017 Fastbazzar.
+ * @license      COPYING.txt for license details.
+ */
+ -->
+ 
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
+    <module name="Fastbazzar_RemoveCartTax" setup_version="2.0.0" />
+</config>
